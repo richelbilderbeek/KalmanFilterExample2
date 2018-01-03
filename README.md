@@ -1,6 +1,6 @@
 # KalmanFilterExample2
 
-[Kalman filterer example](https://github.com/richelbilderbeek/KalmanFilterExample) 2: single state, use of classes is an example to use a Kalman filter.
+[Kalman filterer example](https://github.com/richelbilderbeek/KalmanFilterExamples) 2: single state, use of classes is an example to use a Kalman filter.
 
 # External links
 
